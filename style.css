@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, sans-serif;
+}
+.brandBorder{
+    border-radius: 20px 0px 20px 0px;
+}
+.bg-success{
+    background-color: #075e24 !important;
+}
